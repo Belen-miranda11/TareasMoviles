@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="infopaises_options">
+        <item>Habitantes</item>
+        <item>Territorio</item>
+        <item>Capital</item>
+        <item>Continente</item>
+        <item>Paises Vecinos</item>
+    </string-array>
+</resources>
